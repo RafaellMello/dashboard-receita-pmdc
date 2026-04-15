@@ -75,7 +75,7 @@
   .charts-row { display: grid; grid-template-columns: 1.4fr 1fr; gap: 18px; margin-bottom: 18px; }
   .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 26px; }
   .chart-card-title { font-size: 13px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--text); margin-bottom: 4px; }
-  .chart-card-sub { font-family: var(--font-mono); font-size: 11px; color: var(--text2); margin-bottom: 18px; font-weight: 400; }
+  .chart-card-sub { font-family: var(--font-mono); font-size: 11px; color: var(--text); margin-bottom: 18px; font-weight: 400; }
   .chart-wide { margin-bottom: 18px; }
   .chart-wrap { position: relative; width: 100%; }
   .legend { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 12px; }
